@@ -68,7 +68,7 @@ The prototype features a clean, functional design:
 The device is housed in a 3D-printed white casing, designed for aesthetics and durability. The casing ensures the internal components are secure while allowing proper heat dissipation and visibility of the display.
 
 Below is the designed Fusion 360 model:
-![3DModel](Audio_Visualizer_3D_Model.jpeg)
+![3DModel](Audio_Visualizer_3D_Model.jpg)
 
 ---
 
