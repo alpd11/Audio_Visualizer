@@ -42,7 +42,7 @@ The code is written in Arduino IDE and is available in the repository under the 
 
 ---
 
-## Prototype Documentation
+## Prototype 
 ### Images
 - **Main Prototype Front View**:
   ![Main Prototype Front](main_prototype.jpg)
